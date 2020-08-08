@@ -1,0 +1,20 @@
+{
+    "default": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-onlinechor-default-154020-authRole",
+            "UnauthRoleArn": "arn:aws:iam::083937332021:role/amplify-onlinechor-default-154020-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::083937332021:role/amplify-onlinechor-default-154020-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-onlinechor-default-154020-deployment",
+            "UnauthRoleName": "amplify-onlinechor-default-154020-unauthRole",
+            "StackName": "amplify-onlinechor-default-154020",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:083937332021:stack/amplify-onlinechor-default-154020/78384070-d98d-11ea-940e-0e36924addac",
+            "AmplifyAppId": "d1gr9wjg5u9tpc"
+        },
+        "categories": {
+            "auth": {
+                "onlinechor4e45a26b": {}
+            }
+        }
+    }
+}
